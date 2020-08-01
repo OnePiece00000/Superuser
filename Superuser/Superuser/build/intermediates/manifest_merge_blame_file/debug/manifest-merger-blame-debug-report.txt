@@ -1,0 +1,179 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="me.phh.superuser"
+4    android:versionCode="1033"
+5    android:versionName="1.0.3.3" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml
+9        android:targetSdkVersion="22" />
+9-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml
+10
+11    <permission
+11-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:7:5-9:47
+12        android:name="android.permission.REQUEST_SUPERUSER"
+12-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:8:9-60
+13        android:protectionLevel="signature" />
+13-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:9:9-44
+14    <permission
+14-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:10:5-12:47
+15        android:name="android.permission.REPORT_SUPERUSER"
+15-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:11:9-59
+16        android:protectionLevel="signature" />
+16-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:12:9-44
+17
+18    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+18-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:14:5-81
+18-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:14:22-78
+19
+20    <application
+20-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:16:5-93:19
+21        android:name="com.koushikdutta.superuser.SuApplication"
+21-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:17:9-38
+22        android:allowBackup="false"
+22-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:18:9-36
+23        android:allowClearUserData="false"
+23-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:19:9-43
+24        android:debuggable="true"
+25        android:icon="@drawable/ic_launcher"
+25-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:20:9-45
+26        android:label="@string/superuser"
+26-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:21:9-42
+27        android:testOnly="true"
+28        android:theme="@style/Superuser" >
+28-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:22:9-41
+29        <activity
+29-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:23:9-32:20
+30            android:name="com.koushikdutta.superuser.MainActivity"
+30-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:25:13-41
+31            android:label="@string/superuser"
+31-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:26:13-46
+32            android:theme="@style/SuperuserActivity" >
+32-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:24:13-53
+33            <intent-filter>
+33-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:27:13-31:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:28:17-69
+34-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:28:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:30:17-77
+36-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:30:27-74
+37            </intent-filter>
+38        </activity>
+39        <!-- Only system/su can open this activity -->
+40        <!-- This activity will then call the MultitaskSuRequestActivity to create a new task stack -->
+41        <activity
+41-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:35:9-44:51
+42            android:name="com.koushikdutta.superuser.RequestActivity"
+42-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:36:13-44
+43            android:configChanges="keyboardHidden|orientation|screenSize"
+43-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:37:13-74
+44            android:excludeFromRecents="true"
+44-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:38:13-46
+45            android:label="@string/superuser"
+45-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:39:13-46
+46            android:launchMode="singleTask"
+46-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:40:13-44
+47            android:permission="android.permission.REQUEST_SUPERUSER"
+47-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:41:13-70
+48            android:process=":superuser"
+48-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:42:13-41
+49            android:taskAffinity="internal.superuser"
+49-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:43:13-54
+50            android:theme="@style/RequestTheme" />
+50-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:44:13-48
+51        <!-- Only system/su can open this activity -->
+52        <!-- This is activity is started in multiuser mode when the user invoking su -->
+53        <!-- is not the device owner (user id 0). -->
+54        <activity
+54-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:48:9-57:51
+55            android:name="com.koushikdutta.superuser.NotifyActivity"
+55-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:49:13-43
+56            android:configChanges="keyboardHidden|orientation|screenSize"
+56-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:50:13-74
+57            android:excludeFromRecents="true"
+57-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:51:13-46
+58            android:label="@string/superuser"
+58-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:52:13-46
+59            android:launchMode="singleTask"
+59-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:53:13-44
+60            android:permission="android.permission.REQUEST_SUPERUSER"
+60-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:54:13-70
+61            android:process=":superuser"
+61-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:55:13-41
+62            android:taskAffinity="internal.superuser"
+62-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:56:13-54
+63            android:theme="@style/RequestTheme" />
+63-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:57:13-48
+64
+65        <!-- Multiple instances of this activity can be running for multiple su requests -->
+66        <activity
+66-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:60:9-68:51
+67            android:name="com.koushikdutta.superuser.MultitaskSuRequestActivity"
+67-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:61:13-55
+68            android:configChanges="keyboardHidden|orientation|screenSize"
+68-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:62:13-74
+69            android:excludeFromRecents="true"
+69-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:63:13-46
+70            android:exported="false"
+70-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:64:13-37
+71            android:label="@string/request"
+71-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:65:13-44
+72            android:process=":superuser"
+72-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:66:13-41
+73            android:taskAffinity="internal.superuser"
+73-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:67:13-54
+74            android:theme="@style/RequestTheme" />
+74-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:68:13-48
+75
+76        <receiver
+76-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:70:9-72:72
+77            android:name="com.koushikdutta.superuser.SuReceiver"
+77-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:71:13-39
+78            android:permission="android.permission.REPORT_SUPERUSER" />
+78-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:72:13-69
+79        <receiver android:name="com.koushikdutta.superuser.SuCheckerReceiver" >
+79-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:73:9-77:20
+79-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:73:19-52
+80            <intent-filter>
+80-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:74:13-76:29
+81                <action android:name="android.intent.action.BOOT_COMPLETED" />
+81-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:75:17-79
+81-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:75:25-76
+82            </intent-filter>
+83        </receiver>
+84        <receiver android:name="com.koushikdutta.superuser.PackageChangeReceiver" >
+84-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:79:9-91:20
+84-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:79:19-56
+85            <intent-filter>
+85-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:80:13-83:29
+86                <action android:name="android.intent.action.PACKAGE_ADDED" />
+86-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:81:17-78
+86-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:81:25-75
+87
+88                <data android:scheme="package" />
+88-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:82:17-50
+88-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:82:23-47
+89            </intent-filter>
+90            <intent-filter>
+90-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:74:13-76:29
+91                <action android:name="android.intent.action.BOOT_COMPLETED" />
+91-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:75:17-79
+91-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:75:25-76
+92            </intent-filter>
+93            <intent-filter>
+93-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:87:13-90:29
+94                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+94-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:88:17-80
+94-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:88:25-77
+95
+96                <data android:scheme="package" />
+96-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:82:17-50
+96-->C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:82:23-47
+97            </intent-filter>
+98        </receiver>
+99    </application>
+100
+101</manifest>

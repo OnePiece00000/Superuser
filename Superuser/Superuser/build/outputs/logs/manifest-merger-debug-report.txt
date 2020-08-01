@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:2:1-95:12
+INJECTED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:2:1-95:12
+INJECTED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:2:1-95:12
+INJECTED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:2:1-95:12
+MERGED from [:Widgets] C:\Users\Administrator\Desktop\su\Superuser\Widgets\Widgets\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:2:1-95:12
+INJECTED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:2:1-95:12
+INJECTED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:2:1-95:12
+	package
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:5:5-34
+		INJECTED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:4:5-31
+		INJECTED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml
+permission#android.permission.REQUEST_SUPERUSER
+ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:7:5-9:47
+	android:protectionLevel
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:9:9-44
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:8:9-60
+permission#android.permission.REPORT_SUPERUSER
+ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:10:5-12:47
+	android:protectionLevel
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:12:9-44
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:11:9-59
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:14:22-78
+application
+ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:16:5-93:19
+MERGED from [:Widgets] C:\Users\Administrator\Desktop\su\Superuser\Widgets\Widgets\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-15:19
+MERGED from [:Widgets] C:\Users\Administrator\Desktop\su\Superuser\Widgets\Widgets\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-15:19
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:21:9-42
+	android:allowClearUserData
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:19:9-43
+	android:icon
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:20:9-45
+	android:allowBackup
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:18:9-36
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:22:9-41
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:17:9-38
+activity#com.koushikdutta.superuser.MainActivity
+ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:23:9-32:20
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:26:13-46
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:24:13-53
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:25:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:30:27-74
+activity#com.koushikdutta.superuser.RequestActivity
+ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:35:9-44:51
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:42:13-41
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:39:13-46
+	android:excludeFromRecents
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:38:13-46
+	android:launchMode
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:40:13-44
+	android:permission
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:41:13-70
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:37:13-74
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:44:13-48
+	android:taskAffinity
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:43:13-54
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:36:13-44
+activity#com.koushikdutta.superuser.NotifyActivity
+ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:48:9-57:51
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:55:13-41
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:52:13-46
+	android:excludeFromRecents
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:51:13-46
+	android:launchMode
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:53:13-44
+	android:permission
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:54:13-70
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:50:13-74
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:57:13-48
+	android:taskAffinity
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:56:13-54
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:49:13-43
+activity#com.koushikdutta.superuser.MultitaskSuRequestActivity
+ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:60:9-68:51
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:66:13-41
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:65:13-44
+	android:excludeFromRecents
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:63:13-46
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:64:13-37
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:62:13-74
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:68:13-48
+	android:taskAffinity
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:67:13-54
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:61:13-55
+receiver#com.koushikdutta.superuser.SuReceiver
+ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:70:9-72:72
+	android:permission
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:72:13-69
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:71:13-39
+receiver#com.koushikdutta.superuser.SuCheckerReceiver
+ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:73:9-77:20
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:73:19-52
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:74:13-76:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:75:17-79
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:75:25-76
+receiver#com.koushikdutta.superuser.PackageChangeReceiver
+ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:79:9-91:20
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:79:19-56
+intent-filter#action:name:android.intent.action.PACKAGE_ADDED+data:scheme:package
+ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:80:13-83:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:81:17-78
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:81:25-75
+data
+ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:82:17-50
+	android:scheme
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:82:23-47
+intent-filter#action:name:android.intent.action.PACKAGE_REMOVED+data:scheme:package
+ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:87:13-90:29
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:88:17-80
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml:88:25-77
+uses-sdk
+INJECTED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml
+INJECTED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml
+MERGED from [:Widgets] C:\Users\Administrator\Desktop\su\Superuser\Widgets\Widgets\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:Widgets] C:\Users\Administrator\Desktop\su\Superuser\Widgets\Widgets\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml
+INJECTED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\su\Superuser\Superuser\AndroidManifest.xml

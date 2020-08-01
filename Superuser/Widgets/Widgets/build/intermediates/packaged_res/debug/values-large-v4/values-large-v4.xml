@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="list_content_background">#f1f1f1</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">4dp</dimen>
+    <dimen name="content_padding">4dp</dimen>
+    <dimen name="list_horizontal_margin">@dimen/section_padding</dimen>
+    <dimen name="list_vertical_margin">@dimen/section_padding</dimen>
+    <style name="AppActivityTheme" parent="AppActivityBaseTheme">
+        <item name="listPreferredItemPaddingLeft">0dp</item>
+        <item name="listPreferredItemPaddingRight">0dp</item>
+    </style>
+    <style name="AppBaseDarkLargeTheme" parent="android:Theme.Black">
+        <item name="listPreferredItemPaddingLeft">6dp</item>
+        <item name="listPreferredItemPaddingRight">6dp</item>
+    </style>
+    <style name="AppBaseDarkTheme" parent="@style/AppBaseDarkLargeTheme">
+        <item name="listContentHeader">?android:attr/listSeparatorTextViewStyle</item>
+        <item name="listHeaderTextColor">@null</item>
+    </style>
+    <style name="AppBaseLargeTheme" parent="android:Theme">
+        <item name="listPreferredItemPaddingLeft">6dp</item>
+        <item name="listPreferredItemPaddingRight">6dp</item>
+    </style>
+    <style name="AppBaseTheme" parent="@style/AppBaseLargeTheme">
+        <item name="listContentHeader">@style/ListContentHeader</item>
+        <item name="listHeaderTextColor">@color/holo_blue_dark</item>
+    </style>
+    <style name="AppDarkActivityTheme" parent="AppDarkActivityBaseTheme">
+        <item name="listPreferredItemPaddingLeft">0dp</item>
+        <item name="listPreferredItemPaddingRight">0dp</item>
+    </style>
+    <style name="ListContentHeader" parent="@android:style/TextAppearance.Medium.Inverse">
+        <item name="android:background">@color/holo_blue_light</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>

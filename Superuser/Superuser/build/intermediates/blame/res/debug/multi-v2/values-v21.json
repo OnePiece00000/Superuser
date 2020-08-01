@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Widgets\\Widgets\\build\\intermediates\\packaged_res\\debug\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,12,16,22,28,29,30,33",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,159,211,261,312,361,599,853,1271,1697,1778,1858,2012",
+                        "endLines": "2,3,4,5,6,7,11,15,21,27,28,29,32,35",
+                        "endColumns": "52,50,51,49,50,48,12,12,12,12,80,79,12,12",
+                        "endOffsets": "103,154,206,256,307,356,594,848,1266,1692,1773,1853,2007,2156"
+                    }
+                }
+            ]
+        }
+    ]
+}

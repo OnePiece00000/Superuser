@@ -1,0 +1,39 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v14\\values-large-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Widgets\\Widgets\\build\\intermediates\\packaged_res\\debug\\values-large-v14\\values-large-v14.xml",
+                    "from": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,337",
+                        "endLines": "5,9",
+                        "endColumns": "12,12",
+                        "endOffsets": "332,606"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\values-large-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "335,78",
+                        "endLines": "10,5",
+                        "endColumns": "12,12",
+                        "endOffsets": "553,327"
+                    },
+                    "to": {
+                        "startLines": "10,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "611,831",
+                        "endLines": "13,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "826,1077"
+                    }
+                }
+            ]
+        }
+    ]
+}

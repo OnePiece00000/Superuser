@@ -1,0 +1,522 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable_clockwork512.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable\\clockwork512.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout-normal-land_policy_info.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout-normal-land\\policy_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout_unknown_app.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout\\unknown_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout_request_choices.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout\\request_choices.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_toggle_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_toggle_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notifications_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_notifications_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_logging_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_logging_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_about.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_menu_about.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_timeout_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_timeout_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_users_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_users_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notifications.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_notifications.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout-large-land_policy_list_content.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout-large-land\\policy_list_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v11_ic_stat_notification.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-ldpi-v11\\ic_stat_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_about.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_action_about.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_deny.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_deny.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout-land_app_info.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout-land\\app_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v11_ic_stat_notification.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi-v11\\ic_stat_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_alert.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_alert.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_logging.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_logging.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_deny.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_deny.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_alert_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_alert_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_protected.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_protected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable_tether.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable\\tether.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_theme_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_theme_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_toggle.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_toggle.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_toggle_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_toggle_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_protected.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_protected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout_settings.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_logs.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_action_logs.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout-large_app_request.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout-large\\app_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\menu-v11_policy.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\menu-v11\\policy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout_request_spinner_choice.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout\\request_spinner_choice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_timeout_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_timeout_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notifications_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_notifications_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_timeout.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_timeout.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_logs.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_menu_logs.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_protected_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_protected_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_logs.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_action_logs.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_about.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_menu_about.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_trash.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_menu_trash.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_protected_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_protected_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_timeout.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_timeout.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout-large_policy_list_content.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout-large\\policy_list_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_theme.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_theme.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\menu-v11_app.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\menu-v11\\app.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_users_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_users_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_about.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_action_about.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_trash.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_menu_trash.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v11_ic_stat_notification.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi-v11\\ic_stat_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_trash.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_menu_trash.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_timeout_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_timeout_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout_policy_header.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout\\policy_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_trash.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_action_trash.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_settings.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout_request.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout\\request.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_permission.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_action_permission.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_theme_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_theme_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_theme_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_theme_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout-large_policy_info.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout-large\\policy_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout_packageinfo.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout\\packageinfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout_app_info.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout\\app_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_toggle.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_toggle.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout_policy_info.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout\\policy_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable_carbon.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable\\carbon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout_app_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout\\app_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout_log_item_base.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout\\log_item_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_settings.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout-land_app_request.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout-land\\app_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v11_ic_stat_notification.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi-v11\\ic_stat_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_logs.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_menu_logs.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable_github.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable\\github.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout-large_app_info.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout-large\\app_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout-v14_log_toggle.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout-v14\\log_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_users.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_users.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_users_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_users_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout_log_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout\\log_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable_desksms.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable\\desksms.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_protected.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_protected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_logs.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_action_logs.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_logging_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_logging_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notifications.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_notifications.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable_koush.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable\\koush.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_allow.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_allow.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout_notify.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout\\notify.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notifications.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_notifications.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_timeout.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_timeout.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_alert_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_alert_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout_request_spinner.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout\\request_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_settings.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_menu_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout_app_request.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout\\app_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_about.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_menu_about.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_theme.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_theme.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout_empty.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout\\empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout-v14_notification_toggle.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout-v14\\notification_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_users.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_users.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_allow.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_allow.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_about.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_action_about.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_logs.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_menu_logs.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout-land_log_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout-land\\log_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_trash.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-xhdpi\\ic_action_trash.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_alert_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_alert_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_alert.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_alert.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_settings.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_users.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_users.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_protected_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_protected_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_permission.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_action_permission.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\menu-v11_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\menu-v11\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_settings.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_menu_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_logging_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_logging_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_permission.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_action_permission.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_toggle.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_toggle.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_trash.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_action_trash.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_allow.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_allow.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_alert.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_alert.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_logging.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_logging.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_settings.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_menu_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notifications_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_notifications_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout_pin.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout\\pin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_theme.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_theme.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_toggle_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_toggle_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\layout_policy_list_content.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\layout\\policy_list_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_logging.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-mdpi\\ic_logging.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_deny.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\drawable-hdpi\\ic_deny.png"
+    }
+]

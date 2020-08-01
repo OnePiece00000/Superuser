@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "me.phh.superuser",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "BUNDLE_MANIFEST"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 1033,
+        "versionName": "1.0.3.3",
+        "outputFile": "Superuser-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "me.phh.superuser",
+        "split": "",
+        "minSdkVersion": "16"
+      }
+    }
+  ]
+}

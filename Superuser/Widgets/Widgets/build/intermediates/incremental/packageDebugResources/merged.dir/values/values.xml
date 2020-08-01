@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="dimension" name="iconSize"/>
+    <attr format="reference|color" name="listContentBackground"/>
+    <attr format="reference" name="listContentHeader"/>
+    <attr format="reference|color" name="listHeaderTextColor"/>
+    <attr format="reference|color" name="listItemSelectableLargeBackground"/>
+    <attr format="reference" name="listItemSelectableLargeIndicatorStyle"/>
+    <attr format="reference|color" name="listItemsLeftBackground"/>
+    <attr format="reference|color" name="listItemsRightBackground"/>
+    <attr format="dimension" name="listPreferredItemPaddingLeft"/>
+    <attr format="dimension" name="listPreferredItemPaddingRight"/>
+    <color name="holo_blue_bright">#ff00ddff</color>
+    <color name="holo_blue_dark">#ff0099cc</color>
+    <color name="holo_blue_light">#ff33b5e5</color>
+    <color name="holo_red_dark">#ffcc0000</color>
+    <color name="holo_red_light">#ffff4444</color>
+    <color name="list_separator">#f1f1f1</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="content_padding">0dp</dimen>
+    <item name="golden_ratio" type="dimen">1.6180339887498948482</item>
+    <dimen name="section_padding">8dp</dimen>
+    <style name="AndroidDarkTheme" parent="@android:style/Theme.Black"/>
+    <style name="AndroidTheme" parent="@android:style/Theme.Light"/>
+    <style name="AppActivityBaseTheme" parent="AppTheme">
+    </style>
+    <style name="AppActivityTheme" parent="AppActivityBaseTheme">
+        <item name="listPreferredItemPaddingLeft">@dimen/activity_horizontal_margin</item>
+        <item name="listPreferredItemPaddingRight">@dimen/activity_horizontal_margin</item>
+    </style>
+    <style name="AppBaseDarkTheme" parent="AndroidDarkTheme">
+        <item name="listContentHeader">?android:attr/listSeparatorTextViewStyle</item>
+        <item name="listHeaderTextColor">@null</item>
+        <item name="listPreferredItemPaddingLeft">6dp</item>
+        <item name="listPreferredItemPaddingRight">6dp</item>
+    </style>
+    <style name="AppBaseTheme" parent="AndroidTheme">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+        <item name="listContentHeader">?android:attr/listSeparatorTextViewStyle</item>
+        <item name="listHeaderTextColor">@color/holo_blue_dark</item>
+        <item name="listPreferredItemPaddingLeft">6dp</item>
+        <item name="listPreferredItemPaddingRight">6dp</item>
+    </style>
+    <style name="AppDarkActivityBaseTheme" parent="AppDarkTheme">
+    </style>
+    <style name="AppDarkActivityTheme" parent="AppDarkActivityBaseTheme">
+        <item name="listPreferredItemPaddingLeft">@dimen/activity_horizontal_margin</item>
+        <item name="listPreferredItemPaddingRight">@dimen/activity_horizontal_margin</item>
+    </style>
+    <style name="AppDarkTheme" parent="AppBaseDarkTheme">
+
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="listContentBackground">@null</item>
+        <item name="listItemsLeftBackground">@null</item>
+        <item name="listItemsRightBackground">@drawable/panel_bg_holo_dark</item>
+        <item name="listItemSelectableLargeBackground">?android:attr/activatedBackgroundIndicator</item>
+        <item name="listItemSelectableLargeIndicatorStyle">@style/ListContentIndicator</item>
+        <item name="iconSize">24dp</item>
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="listContentBackground">@null</item>
+        <item name="listItemsLeftBackground">@null</item>
+        <item name="listItemsRightBackground">@drawable/panel_bg_holo_light</item>
+        <item name="listItemSelectableLargeBackground">@null</item>
+        <item name="listItemSelectableLargeIndicatorStyle">?android:attr/activatedBackgroundIndicator</item>
+        <item name="iconSize">24dp</item>
+        
+    </style>
+    <style name="ListContentIndicator">
+        <item name="android:visibility">gone</item>    
+    </style>
+    <style name="ListItemSummary">
+        <item name="android:textSize">12sp</item>
+        
+    </style>
+    <style name="ListItemTitle">
+        <item name="android:textSize">18sp</item>
+        
+    </style>
+</resources>

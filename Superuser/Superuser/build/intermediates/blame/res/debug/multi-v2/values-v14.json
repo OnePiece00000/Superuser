@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Superuser\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "2,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "78,293",
+                        "endLines": "5,10",
+                        "endColumns": "12,12",
+                        "endOffsets": "279,441"
+                    },
+                    "to": {
+                        "startLines": "18,28",
+                        "startColumns": "4,4",
+                        "startOffsets": "1077,1467",
+                        "endLines": "21,30",
+                        "endColumns": "12,12",
+                        "endOffsets": "1275,1613"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\Desktop\\su\\Superuser\\Widgets\\Widgets\\build\\intermediates\\packaged_res\\debug\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "2,3,4,11,18,21",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,127,215,642,1077,1171",
+                        "endLines": "2,3,10,17,20,23",
+                        "endColumns": "71,87,12,12,12,12",
+                        "endOffsets": "122,210,637,1072,1166,1259"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,11,22,25",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,127,215,642,1280,1374",
+                        "endLines": "2,3,10,17,24,27",
+                        "endColumns": "71,87,12,12,12,12",
+                        "endOffsets": "122,210,637,1072,1369,1462"
+                    }
+                }
+            ]
+        }
+    ]
+}

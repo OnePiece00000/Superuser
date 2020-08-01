@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="listContentBackground" format="reference|color" />
+    <attr name="listItemsLeftBackground" format="reference|color" />
+    <attr name="listItemsRightBackground" format="reference|color" />
+    <attr name="listContentHeader" format="reference" />
+    <attr name="listHeaderTextColor" format="reference|color" />
+    <attr name="listItemSelectableLargeBackground" format="reference|color" />
+    <attr name="listItemSelectableLargeIndicatorStyle" format="reference" />
+    <attr name="iconSize" format="dimension" />
+    <attr name="listPreferredItemPaddingLeft" format="dimension" />
+    <attr name="listPreferredItemPaddingRight" format="dimension" />
+</resources>
